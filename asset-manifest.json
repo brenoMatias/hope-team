@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/hope-team/static/css/main.53321ecf.css",
-    "main.js": "/hope-team/static/js/main.ec1899e1.js",
+    "main.css": "/hope-team/static/css/main.c5dff932.css",
+    "main.js": "/hope-team/static/js/main.38308aec.js",
     "static/js/787.3fd99002.chunk.js": "/hope-team/static/js/787.3fd99002.chunk.js",
     "static/media/img8.jpg": "/hope-team/static/media/img8.c62bcf876d2966108cd1.jpg",
     "static/media/img19.jpg": "/hope-team/static/media/img19.b43ee5b98baf4895aa46.jpg",
     "static/media/img3.jpg": "/hope-team/static/media/img3.2d1af640078fb1a2bb80.jpg",
     "static/media/crop2.svg": "/hope-team/static/media/crop2.9a8c3b3c1e794c653517fd5350e27028.svg",
-    "static/media/tes111.jpg": "/hope-team/static/media/tes111.e16afa6ded4a779f9d12.jpg",
     "static/media/img9.jpg": "/hope-team/static/media/img9.9ea37afc82b702640c35.jpg",
     "static/media/test3.jpg": "/hope-team/static/media/test3.79e66c3a962ca5889cd8.jpg",
     "static/media/img21.jpg": "/hope-team/static/media/img21.dea62dd4966804d6704c.jpg",
@@ -36,22 +35,23 @@
     "static/media/img12.jpg": "/hope-team/static/media/img12.078fe7cce5daaac6ec35.jpg",
     "static/media/img11.jpg": "/hope-team/static/media/img11.a0ed6d6adfb22315a84e.jpg",
     "static/media/img17.jpg": "/hope-team/static/media/img17.0ad581a86037178cc30b.jpg",
-    "static/media/carousel1.jpg": "/hope-team/static/media/carousel1.687b071b915c56105d64.jpg",
     "static/media/2.jpg": "/hope-team/static/media/2.f59a32c2044a6acb5dbb.jpg",
     "static/media/img14.jpg": "/hope-team/static/media/img14.b9ca251fc2e79c49e56f.jpg",
     "static/media/arrowDown1.gif": "/hope-team/static/media/arrowDown1.5910a887d276af29945a.gif",
-    "static/media/finalHeader.jpg": "/hope-team/static/media/finalHeader.0f927d7f0727a04da725.jpg",
     "static/media/carousel2.jpg": "/hope-team/static/media/carousel2.8c014e1abc8b29ee2a5e.jpg",
+    "static/media/tes111.jpg": "/hope-team/static/media/tes111.a985b2a4f93d8e0ca8f7.jpg",
+    "static/media/carousel1.jpg": "/hope-team/static/media/carousel1.859005c9978cf57d640b.jpg",
+    "static/media/finalHeader.jpg": "/hope-team/static/media/finalHeader.84ab5be8f65da4b759dd.jpg",
     "static/media/final.svg": "/hope-team/static/media/final.40420cb2a8885afe647523975fb264b6.svg",
     "static/media/croppedLogo.svg": "/hope-team/static/media/croppedLogo.d566f77ece2dba7884b9.svg",
     "static/media/typoLogo.svg": "/hope-team/static/media/typoLogo.3242f18b649b3e475f1e63c16d58b59f.svg",
     "index.html": "/hope-team/index.html",
-    "main.53321ecf.css.map": "/hope-team/static/css/main.53321ecf.css.map",
-    "main.ec1899e1.js.map": "/hope-team/static/js/main.ec1899e1.js.map",
+    "main.c5dff932.css.map": "/hope-team/static/css/main.c5dff932.css.map",
+    "main.38308aec.js.map": "/hope-team/static/js/main.38308aec.js.map",
     "787.3fd99002.chunk.js.map": "/hope-team/static/js/787.3fd99002.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53321ecf.css",
-    "static/js/main.ec1899e1.js"
+    "static/css/main.c5dff932.css",
+    "static/js/main.38308aec.js"
   ]
 }
