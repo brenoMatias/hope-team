@@ -109,7 +109,7 @@ justify-content: center;
   width: 1024px;
   display: flex;
   flex-direction: column;
-  background-color: rgb(133, 214, 214);
+  /* background-color: rgb(133, 214, 214); */
   margin-right: auto;
   margin-left: auto;
   background-image: url("./images/classesBack.jpg");
@@ -133,6 +133,7 @@ justify-content: center;
     width: 100%;
     margin-left: auto;
     margin-top: auto;
+    height: 80em;
   }
 
   .d-block {

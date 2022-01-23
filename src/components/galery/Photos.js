@@ -20,9 +20,7 @@ function Photos() {
         <div className="user">
         
           <img className="galery-img" src={photo.image} alt="lala"/>
-          <h3>{photo.id}</h3>  
-
-          
+        
         </div>
         
         

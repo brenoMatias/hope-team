@@ -115,7 +115,7 @@
   }
 
   .user {
-    border: 2px solid black;
+    border: 2px solid rgb(250, 2, 2);
     border-radius: 10px;
     /* background-color: #b3e3ff; */
     display: flex;
@@ -123,13 +123,14 @@
     align-items: center;
     flex-direction: column;
     margin: 20px;
-    min-width: 300px;
+    min-width: 22em;
+    min-height: 24em;
   
   }
   .galery-img {
 
-    min-width: 250px;
-    min-height: 300px;
+    min-width: 20em;
+    min-height: 25empx;
     transition: transform ease-in-out 0.3s;
     padding-top: 60px;
   }
@@ -140,12 +141,12 @@
   
 }
 
-
 .showB img {
   height: 2.5em;
   margin-top: -80px;
   color: rgb(243, 240, 240);
   width: 60px;
+  border-radius: 20px 20px;
 }
 
 

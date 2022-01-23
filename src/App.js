@@ -6,13 +6,21 @@ import Footer from './components/Footer';
 import Galery from './components/galery/Galery';
 import Contact from './components/Contact';
 import About from './pages/About';
+import { Helmet } from 'react-helmet';
+
 
 
 
 function App() {
   return (
+    <div> 
+      <div> 
+    <Helmet>
+      <title>Academia Hope Team</title>
+    </Helmet>
+    </div>
     <>
-    <BrowserRouter> 
+    <BrowserRouter basename="/hope-team"> 
         <NavBar />
           <Switch>
              <Route path="/" exact component={Home}/>
@@ -23,6 +31,7 @@ function App() {
          
      </BrowserRouter>
      </>
+     </div>
   );
 }
 

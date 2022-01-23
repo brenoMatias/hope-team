@@ -2,9 +2,9 @@ import img1 from '../photos-galery/img1.jpeg';
 import img2 from '../photos-galery/img2.jpg';
 import img3 from '../photos-galery/img3.jpg';
 import img4 from '../photos-galery/img4.jpg';
-import img5 from '../photos-galery/img5.jpg';
+import img5 from '../photos-galery/img5.jpeg';
 import img6 from '../photos-galery/img6.jpg';
-import img7 from '../photos-galery/img7.jpg';
+import img7 from '../photos-galery/img7.jpeg';
 import img8 from '../photos-galery/img8.jpg';
 import img9 from '../photos-galery/img9.jpg';
 import img10 from '../photos-galery/img10.jpg';
@@ -20,7 +20,7 @@ import img19 from '../photos-galery/img19.jpg';
 import img20 from '../photos-galery/img20.jpg';
 import img21 from '../photos-galery/img21.jpg';
 import img22 from '../photos-galery/img22.jpg';
-import img23 from '../photos-galery/img23.jpg';
+import img23 from '../photos-galery/img23.JPG';
 import img24 from '../photos-galery/img24.jpg';
 
 

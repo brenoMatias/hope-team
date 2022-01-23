@@ -2,10 +2,19 @@ import React from 'react';
 import './Footer.css';
 import { Link } from 'react-router-dom';
 import '../components/Footer.css';
+import typoLogo from '../images/final.svg';
+
 
 function Footer() {
   return (
     <div className='footer-container'>
+
+      <div className='home-page-f'> 
+      <Link to='/' className='navbar-f'>
+            
+            <img src={typoLogo} alt="hope logo" ></img>
+          </Link>
+      </div>
 
 
       <section class='social-media'>

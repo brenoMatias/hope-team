@@ -1,6 +1,6 @@
 {
+  "homepage": "https://brenoMatias.github.io/hope-team",
   "name": "hope-team",
-  "homepage": "https://github.com/brenoMatias/hopeteam",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -17,6 +17,7 @@
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.4",
     "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
     "react-iframe": "^1.8.0",
     "react-inner-image-zoom": "^2.1.0",
     "react-paginate": "^8.1.0",
@@ -31,8 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-    
+     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
