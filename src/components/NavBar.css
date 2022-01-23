@@ -89,6 +89,22 @@ img {
 
   }
 
+  .navbar-container {
+    margin-top: 60px;
+    background-color: aqua;
+    min-height: 100px;
+    margin-bottom: 60px;
+    width: 100%;
+  }
+
+  .active .carousel-item{
+    width: 100%;
+  }
+
+  .navbar-container{
+    width: 100%;
+  }
+
   .nav-item{
     /* border: 1px solid white; */
     width: 80%;
@@ -134,7 +150,7 @@ img {
   }
 
   .nav-links:hover {
-    background-color: rgb(54, 243, 17);
+    background-color: rgb(60, 20, 238);
     margin-left: -40px;
     color: #2f8f17;
     border-radius: 10px;
@@ -144,7 +160,6 @@ img {
     position: absolute;
     top: 0;
     left: 0;
-    transform: translate(20%, 0%);
   }
 
   .menu-icon {

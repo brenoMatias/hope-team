@@ -176,16 +176,6 @@ justify-content: center;
   margin-bottom: -8px;
 }
 
-.test1 {
-  background-color: rgb(12, 61, 61);
-  height: 100px;
-  min-width: 800px;
-  padding: 40px 40px 40px 40px;
-  border-radius: 40px;
-  display: flex;
-  margin-right: auto;
-  margin-left: auto;
-}
 
 .clas1 {
   display: flex;
@@ -200,15 +190,13 @@ justify-content: center;
 }
 
 @media only screen and (max-width:1000px) {
+  
 
-
-
-  .test1 {
-    min-width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
+  .carousel-item {
+    height: 60em;
+    width:100% ;
   }
+
 }
 
 .aulas {
@@ -292,4 +280,9 @@ justify-content: center;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
+}
+
+.d-block .w-100 {
+  height: 60em;
+  width:100% ;
 }

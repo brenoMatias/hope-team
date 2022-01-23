@@ -10,6 +10,7 @@ function About() {
                 <div className="about-main">
                     <div className='about-text'> 
                     <h1>Luis Eduardo Souza - Dudu</h1>
+                    <p>teste</p>
                     <p> Tudo começou no interior da Bahia, na cidade Jacobina, mas, ainda criança, Dudu foi morar na capital Salvador. Aos 12 anos, em um projeto social de um amigo, Dudu conheceu o boxe e se apaixonou pelo esporte. O boxe começou como uma forma de se defender na escola, mas logo se tornou uma oportunidade de mudança de vida e conquistas.</p>
 
                     <p>
