@@ -4,7 +4,6 @@ body {
 }
 
 .carousel-item {
- max-height: 500px;
 display: flex;
 justify-content: center;
 }
@@ -137,7 +136,7 @@ justify-content: center;
   }
 
   .d-block {
-    min-height: 400px;
+    min-height: 600px;
   }
   
 }
@@ -153,7 +152,6 @@ justify-content: center;
 .carousel-img
 {
     min-width:100%;
-    min-height: 100%;
     object-fit: cover;
 
 }
@@ -162,9 +160,6 @@ justify-content: center;
   height: auto;
 }
 
-.d-block {
-  max-height: 500px;
-}
 
 .carousel {
   margin-top: 29px;
@@ -193,7 +188,6 @@ justify-content: center;
   
 
   .carousel-item {
-    height: 60em;
     width:100% ;
   }
 

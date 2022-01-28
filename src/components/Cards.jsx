@@ -7,7 +7,7 @@ import map1 from './../images/map1.png'
 function Cards() {
   return (
     <div className='cards'>
-      <div>
+      <div className='animated-container'>
                 <h1 class="animate__animated animate__heartBeat">Fique Ligado!</h1>
       </div>
        <div className='cards-container'>

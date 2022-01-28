@@ -14,28 +14,29 @@ function Hero() {
 
             <h2 className="h22"> As artes marciais estimulam o desenvolvimento de várias habilidades. A prática de arte marcial traz muitos benefícios para a saúde física e mental, de crianças à idosos. Por meio do boxe é possível também aprender a compartilhar valores e experiências. </h2>
              
-             <div>      
-            <h2 className="hh1 animate__animated animate__backInLeft"> Benefícios do boxe: </h2>
+             <div className='boxe-container'>      
+            <h2 className="hh1 animate__animated animate__backInLeft"> Benefícios do  </h2>
+            <h2 className='boxe1'>BOXE</h2>
             </div>
 
      <div className="beneficies"> 
             <i class="fas fa-boxing-glove">
-                <p className="p11"> Promoção da capacidade de defesa pessoal</p>
+                <p className="gloves"> Promoção da capacidade de defesa pessoal</p>
             </i>
             <i class="fas fa-boxing-glove">
-                <p className="p11"> Aumento da coordenação</p>
+                <p className="gloves"> Aumento da coordenação</p>
             </i>
             <i class="fas fa-boxing-glove">
-                <p className="p11"> Emagrecimento progressivo</p>
+                <p className="gloves"> Emagrecimento progressivo</p>
             </i>
             <i class="fas fa-boxing-glove">
-                <p className="p11"> Melhora na composição física</p>
+                <p className="gloves"> Melhora na composição física</p>
             </i>
             <i class="fas fa-boxing-glove">
-                <p className="p11">  Redução do estresse</p>
+                <p className="gloves">  Redução do estresse</p>
             </i>
             <i class="fas fa-boxing-glove">
-                <p className="p11"> Elevação da autoestima</p>
+                <p className="gloves"> Elevação da autoestima</p>
             </i>
         </div>
 
@@ -48,6 +49,6 @@ function Hero() {
     )
 }
 
-export default Hero
+export default Hero;
 
 

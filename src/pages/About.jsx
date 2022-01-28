@@ -28,12 +28,23 @@ function About() {
                     <p>
                     Com fé, esperança e força para lutar pelos sonhos a história é criada.
                     </p>
-                    <p>como chegar</p>
+
+                    <div className='reach'> 
+                    <a  class='reach' href="/hope-team/contato"
+                   target='_blank' rel="noreferrer">
+                    <i class="fas fa-location-arrow"></i>
+                    <p>Como chegar</p>
+                    </a>
                     </div>
+                </div>
                    
                 </div>
             </div>
-          <Footer />
+
+            <div className='divFooter'> 
+            <Footer />
+            </div>
+          
         </div>
     )
 }

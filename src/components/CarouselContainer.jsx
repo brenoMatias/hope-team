@@ -1,17 +1,11 @@
 
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import AppCss from '../App.css';
-import image1 from './../images/1.jpg';
-import image2 from './../images/2.jpg';
-import image3 from './../images/3.jpg';
 import carousel1 from './../images/carousel1.jpg';
-import carousel2 from './../images/carousel2.jpg';
-import carousel3 from './../images/carousel3.jpg';
-import Background from './../images/Background.png';
-import test3 from './../images/test3.jpg';
-import finalHeader from './../images/finalHeader.jpg';
-import tes111 from './../images/tes111.jpg'
+import c2 from './../images/c2.jpg'
+import c from './../images/c.png'
+import c11 from './../images/c1.jpg'
+import c3 from './../images/c3.jpg'
 // import logo2 from './../images/logo2.jpg';
 
 const CarouselContainer = () => {
@@ -21,7 +15,7 @@ const CarouselContainer = () => {
       <Carousel.Item interval={2000}>
         <img
           className="d-block w-100"
-          src={finalHeader}
+          src={c}
           alt="First slide"
         />
         <div className="c.capation"> 
@@ -37,7 +31,7 @@ const CarouselContainer = () => {
       <Carousel.Item interval={2000}>
         <img
           className="d-block w-100"
-          src={tes111}
+          src={c2}
           alt="Third slide"
 
         />
@@ -50,7 +44,7 @@ const CarouselContainer = () => {
       <Carousel.Item interval={2000}>
         <img
           className="d-block w-100"
-          src={carousel1}
+          src={c11}
           alt="Third slide"
         />
         {/* <Carousel.Caption>

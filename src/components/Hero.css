@@ -133,8 +133,8 @@ h2 {
 
 .p11 {
   color: black;
-  font-family: 'Orbitron', sans-serif;
-    font-size: 0.9em;
+  font-family: 'Orbitron', sans-serif, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
 
 }
 
@@ -148,3 +148,4 @@ h2 {
 .fa-boxing-glove{
   color: red;
 }
+

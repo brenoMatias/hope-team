@@ -9,7 +9,9 @@ export default function Home() {
     return (
 
             <div className="home-container"> 
-            <CarouselContainer />
+            <div>
+                         <CarouselContainer /> </div>
+   
             <Hero />
             <Cards />
             <Footer />
