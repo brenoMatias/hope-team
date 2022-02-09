@@ -9,12 +9,13 @@ import 'animate.css';
 function Contact() {
     return ( 
     <><div className="contact">
-
+           
+      <div className='entre'> 
         <h1 className='entre-em'> Entre em contato pelas redes sociais </h1>
-        <div class=''>
+        </div>
 
 
-
+<div className='media'>
 <section class='social-media-e'>
   <div class='social-media-wrap'>
     <div class='social-icons'>
@@ -33,7 +34,7 @@ function Contact() {
     </div>
   </div>
 </section>
-        </div>
+</div>
 
         <div className="classes">
 

@@ -16,14 +16,59 @@
         justify-content: center;
         margin-top: 10px;
     }
+    
+    .reach1 {
+        font-size: 1em;
+        margin-top: 3em;
+    }
 
+    .about-pic {
+        height: 25em;
+        margin-top: 1em;
+        width: 100%;
+        border-radius: 90px;
+        position: 1;
+      }
+      
+      .p-about {
+        font-size: 0.8em;
+        font-weight: bold;
+        color: rgb(252, 248, 248);
+        text-shadow: 5px 5px 50px rgb(255, 0, 0);
+      }
+      
+      .h-about {
+        font-size: 1.5em;
+        margin-top: 1em;
+        color: beige;
+        background: #2a01e0;
+        border: 5px solid black;
+        border-radius: 20px;
+        text-shadow: 1px 1px 0px #ffffff, 5px 4px 0px rgba(0,0,0,0.15);
+      
+      }
+      
+      .p-box {
+        margin-top: 2em;
+      }
 
     .about .about-main{
         width: 100%;
         margin-left: auto;
         margin-top: auto;
-        height: 100em;
+        height: 105em;
+        width: 100%;
+        margin-left: auto;
+        margin-top: auto;
+        height: 102em;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        /* Font Colour */
+        opacity: 0.6;   
       }
+    
     
 
     .divFooter{ 
@@ -44,8 +89,6 @@
         font-size: 1em;
         
     }
-
-    
 
     .gloves{
         color: rgba(0, 0, 0, 0.993);
@@ -81,19 +124,54 @@
          margin-left: auto;
          margin-right: auto;
      }
-
-     .about {
-         margin-top: 50px;
-     }
-       
-     .about-main{
-
-     }
-
+    
      .h22 {
          font-weight: lighter;
          font-size: 2em;
      }
+
+     .classes {
+       width: 95%;
+     }
+
+     .entre-em {
+       font-size: 2em;
+       width: 90%;
+       display: flex;
+       justify-content: center;
+     }
+
+     .entre {
+       display: flex;
+       justify-content: center;
+     }
+       
+     .media {
+       font-size: 0.5em;
+       margin-top: 80px;
+     }
+
+     .entre-em-e {
+       font-size: 2em;
+       margin-top: 2em;
+     }
+
+     .cards-item-pic-wrap::after {
+      content: attr(data-category);
+      position: absolute;
+      height: 30px;
+      margin-top: -10px;
+      box-sizing: border-box;
+    }
+
+    .cards-item-img {
+      display: flex;
+      flex-flow: column;
+      text-decoration: none;
+      height: 20em;
+      background-color: red;
+    }
+     
 }
 
 .gloves{
@@ -105,9 +183,22 @@
 
 
 .reach {
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 2em;
     display: flex;
     color: rgb(253, 4, 4);
     text-decoration: none;
+    display: flex;
+    justify-content: center;
+
 }
+
+.boxe1{ 
+    margin-top: -0.2em;
+    font-size: 6em;
+    font-weight: bold;
+    color: #333333;
+    background: #ffffff48;
+    border-radius: 40px;
+    text-shadow: 2px 2px 0px #ffffff, 5px 4px 0px rgba(0,0,0,0.15);
+  }
