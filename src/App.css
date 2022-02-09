@@ -114,7 +114,7 @@ justify-content: center;
   background-image: url("./images/classesBack.jpg");
   background-size: cover;
   border-radius: 50px;
-  opacity: 70%;
+  opacity: 100%;
 
 }
 
@@ -128,20 +128,6 @@ justify-content: center;
   }
 
   /* about session */
-.about .about-main{
-    width: 100%;
-    margin-left: auto;
-    margin-top: auto;
-    height: 80em;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    /* Font Colour */
-    opacity: 0.6;   
-  }
-
-
 
 
   .d-block {
@@ -253,7 +239,7 @@ justify-content: center;
   background-color: #464646;
   /* Font Colour */
   color:white;
-  opacity: 0.6;
+  opacity: 1;
   height: 130em;
   width: 80%;
   margin-right: auto;
@@ -307,7 +293,7 @@ justify-content: center;
 .p-about {
   font-size: 1.5em;
   font-weight: bold;
-  color: rgb(255, 255, 255);
+  color: white;
   text-shadow: 5px 5px 50px rgb(255, 0, 0);
 }
 

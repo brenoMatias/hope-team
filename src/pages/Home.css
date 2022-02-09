@@ -51,12 +51,15 @@
       .p-box {
         margin-top: 2em;
       }
-
-    .about .about-main{
-        height: 102em;
-
-      }
     
+  
+.about-main {
+  width: 100%;
+  background-size: 42em;
+  height: 120em;
+
+
+}
     
 
     .divFooter{ 
