@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hope-team/static/css/main.52015b98.css",
-    "main.js": "/hope-team/static/js/main.a6311edd.js",
+    "main.css": "/hope-team/static/css/main.f15f2e70.css",
+    "main.js": "/hope-team/static/js/main.29eb689e.js",
     "static/js/787.3fd99002.chunk.js": "/hope-team/static/js/787.3fd99002.chunk.js",
     "static/media/img8.jpg": "/hope-team/static/media/img8.c62bcf876d2966108cd1.jpg",
     "static/media/img19.jpg": "/hope-team/static/media/img19.b43ee5b98baf4895aa46.jpg",
@@ -13,12 +13,14 @@
     "static/media/c2.jpg": "/hope-team/static/media/c2.0cc73bc1fe03e8c280fc.jpg",
     "static/media/img1.jpeg": "/hope-team/static/media/img1.3a190ea2575bbc9eca2e.jpeg",
     "static/media/img4.jpg": "/hope-team/static/media/img4.7273af2af87b70635d94.jpg",
+    "static/media/hope.jpeg": "/hope-team/static/media/hope.13c6d89cabb17f28ec23.jpeg",
+    "static/media/img52.jpeg": "/hope-team/static/media/img52.13c6d89cabb17f28ec23.jpeg",
     "static/media/img24.jpg": "/hope-team/static/media/img24.937b8c44b5751336f8a3.jpg",
     "static/media/img7.jpeg": "/hope-team/static/media/img7.46cf90a6e6eddbe08b8b.jpeg",
     "static/media/c1.jpg": "/hope-team/static/media/c1.9168f8ef9176767c99b0.jpg",
     "static/media/map1.png": "/hope-team/static/media/map1.c8d171cc509e4233d5d8.png",
     "static/media/img10.jpg": "/hope-team/static/media/img10.742b5c783912784a6dfe.jpg",
-    "static/media/img5.jpeg": "/hope-team/static/media/img5.1526b046024419448390.jpeg",
+    "static/media/img51.jpeg": "/hope-team/static/media/img51.1526b046024419448390.jpeg",
     "static/media/img16.jpg": "/hope-team/static/media/img16.22b0fc671a7ff2543445.jpg",
     "static/media/img20.jpg": "/hope-team/static/media/img20.fca8fdc745f0c5d16b0d.jpg",
     "static/media/nextevent.jpg": "/hope-team/static/media/nextevent.5c141d5129871e913137.jpg",
@@ -41,12 +43,12 @@
     "static/media/croppedLogo.svg": "/hope-team/static/media/croppedLogo.d566f77ece2dba7884b9.svg",
     "static/media/typoLogo.svg": "/hope-team/static/media/typoLogo.3242f18b649b3e475f1e63c16d58b59f.svg",
     "index.html": "/hope-team/index.html",
-    "main.52015b98.css.map": "/hope-team/static/css/main.52015b98.css.map",
-    "main.a6311edd.js.map": "/hope-team/static/js/main.a6311edd.js.map",
+    "main.f15f2e70.css.map": "/hope-team/static/css/main.f15f2e70.css.map",
+    "main.29eb689e.js.map": "/hope-team/static/js/main.29eb689e.js.map",
     "787.3fd99002.chunk.js.map": "/hope-team/static/js/787.3fd99002.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52015b98.css",
-    "static/js/main.a6311edd.js"
+    "static/css/main.f15f2e70.css",
+    "static/js/main.29eb689e.js"
   ]
 }
