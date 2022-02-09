@@ -7,6 +7,7 @@ import Galery from './components/galery/Galery';
 import Contact from './components/Contact';
 import About from './pages/About';
 import { Helmet } from 'react-helmet';
+import teste from './pages/test';
 
 
 
@@ -26,7 +27,7 @@ function App() {
              <Route path="/" exact component={Home}/>
              <Route path="/galeria" component={Galery}/>
              <Route path="/contato" component={Contact} />
-             <Route path="/sobre" component={About}/>
+             <Route path="/sobre" component={teste}/>
           </Switch>
          
      </BrowserRouter>

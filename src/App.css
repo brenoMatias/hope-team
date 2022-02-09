@@ -197,10 +197,6 @@ justify-content: center;
   font-size: 2em;
 }
 
-.about {
-  margin-top: 27px;
-  margin-bottom: -8px;
-}
 
 .animate__rotateIn{
   animation-iteration-count: infinite;
@@ -231,16 +227,16 @@ justify-content: center;
 
 
 .about-main {
-  background-image: url("./images/crop2.svg");
-  background-position: center center;
+  /* background-image: url("./images/crop2.svg"); */
+  /* background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed; */
   background-size: cover;
-  background-color: #464646;
+  /* background-color: #020202; */
   /* Font Colour */
   color:white;
   opacity: 1;
-  height: 130em;
+  height: 140em;
   width: 80%;
   margin-right: auto;
   margin-left: auto;
@@ -265,7 +261,7 @@ justify-content: center;
   max-width: 80%;
   min-height: 100%;
   padding: 20px 20px;
-  background-color: rgba(0, 0, 3, 0.733);
+  background-color: rgba(0, 0, 0, 0.89);
   margin-left: auto;
   margin-right: auto;
   border-radius: 50px;
