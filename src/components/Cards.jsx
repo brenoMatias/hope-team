@@ -14,15 +14,15 @@ function Cards() {
         <div className='cards-wrapper'>
           <ul className='cards-items'>
             <CardItem className="card-item"
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Próximo Evento'
+              text=" Rock'n Figth - Garajão/Ipatinga  "
+              label='Último evento'
               path='/services'
               src={nextevent}
               alt="lala"
             />
             <CardItem className="card-item"  
               src={map1}
-              text='Rua Von Goethe, 348 - Cidade Nobre, Ipatinga - State of Minas Gerais'
+              text='Rua Von Goethe, 348 - Cidade Nobre, Ipatinga'
               label='Como Chegar'
               path='/contato'
             />

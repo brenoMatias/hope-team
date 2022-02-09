@@ -139,10 +139,16 @@ h2 {
 }
 
 .venha {
-  color: rgb(47, 0, 255);
-  border: 2px solid black;
-  border-radius: 25px;
-  /* font-family: 'Anton', sans-serif; */
+  color: #FFFFFF;
+  background: #912C22;
+  text-shadow: 0 0 10px #FFFFFF;
+  border-bottom-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  min-height: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
 }
 
 .fa-boxing-glove{

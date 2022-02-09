@@ -27,10 +27,12 @@ h1 {
 .cards-wrapper {
   position: relative;
   margin: 50px 0 45px;
+  
 }
 
 .cards-items {
   margin-bottom: 24px;
+  
 }
 
 .cards-item {
@@ -38,6 +40,7 @@ h1 {
   flex: 1;
   margin: 0 1rem;
   border-radius: 10px;
+  
 }
 
 .cards-item-link {
@@ -50,16 +53,18 @@ h1 {
   border-radius: 30px;
   overflow: hidden;
   text-decoration: none;
-  background-color: rgba(33, 31, 151, 0.993);
-  height: 31em;
+  background-color: rgb(0, 0, 255);
+  max-height: 45em;
+  
 }
 
 .cards-item-pic-wrap {
   position: relative;
   width: 100%;
-  padding-top: 67%;
   overflow: hidden;
   height: 400px;
+  max-height: 270px;
+
   
 }
 
@@ -99,15 +104,17 @@ h1 {
 }
 
 .cards-item-info {
-  max-height: 50px;
+  max-height: 80px;
+  display: flex;
+  justify-content: center;
 }
 
 .cards-item-text {
   color: #f6f7fa;
-  font-size: 18px;
   line-height: 24px;
   display: flex;
   justify-content: center;
+  max-height: 200px;
 }
 
 @media only screen and (min-width: 1200px) {

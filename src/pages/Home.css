@@ -53,20 +53,8 @@
       }
 
     .about .about-main{
-        width: 100%;
-        margin-left: auto;
-        margin-top: auto;
-        height: 105em;
-        width: 100%;
-        margin-left: auto;
-        margin-top: auto;
         height: 102em;
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        /* Font Colour */
-        opacity: 0.6;   
+
       }
     
     
@@ -156,20 +144,30 @@
        margin-top: 2em;
      }
 
-     .cards-item-pic-wrap::after {
-      content: attr(data-category);
-      position: absolute;
-      height: 30px;
-      margin-top: -10px;
-      box-sizing: border-box;
+    
+    .cards-item-text {
+      font-size: 15px;
+      line-height: 34px;
+      display: flex;
+      justify-content: center;
+      font-size: 17px;
+      height: 60px;
+      
     }
 
-    .cards-item-img {
+    .cards-item-pic-wrap {
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+      background-color: rgb(0, 10, 10);
+      
+    }
+    
+    .venha {
+      font-size: 1.7em;
+      height: 4em;
       display: flex;
-      flex-flow: column;
-      text-decoration: none;
-      height: 20em;
-      background-color: red;
+      align-items: center;
     }
      
 }
