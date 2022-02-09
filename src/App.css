@@ -225,19 +225,24 @@ justify-content: center;
   font-size: 3em;
 }
 
+.about {
+  margin-top: 2em;
+  height: 60em;
+    /* background-image: url("./images/crop2.svg"); */
+}
 
 .about-main {
-  /* background-image: url("./images/crop2.svg"); */
-  /* background-position: center center;
+  background-image: url("./images/crop2.svg");
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; */
+  /* background-attachment: fixed;  */
   background-size: cover;
-  /* background-color: #020202; */
+  background-color: #020202;
   /* Font Colour */
   color:white;
   opacity: 1;
   height: 140em;
-  width: 80%;
+  width: 90%;
   margin-right: auto;
   margin-left: auto;
 }

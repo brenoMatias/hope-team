@@ -55,10 +55,9 @@
   
 .about-main {
   width: 100%;
-  background-size: 42em;
   height: 120em;
-
-
+  background-size: cover;
+  background-attachment: scroll, local;
 }
     
 
