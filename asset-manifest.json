@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hope-team/static/css/main.2dff87ba.css",
-    "main.js": "/hope-team/static/js/main.27883021.js",
+    "main.css": "/hope-team/static/css/main.cb353067.css",
+    "main.js": "/hope-team/static/js/main.53b720c1.js",
     "static/js/787.3fd99002.chunk.js": "/hope-team/static/js/787.3fd99002.chunk.js",
     "static/media/img8.jpg": "/hope-team/static/media/img8.c62bcf876d2966108cd1.jpg",
     "static/media/img19.jpg": "/hope-team/static/media/img19.b43ee5b98baf4895aa46.jpg",
@@ -15,7 +15,6 @@
     "static/media/img4.jpg": "/hope-team/static/media/img4.7273af2af87b70635d94.jpg",
     "static/media/hope.jpeg": "/hope-team/static/media/hope.13c6d89cabb17f28ec23.jpeg",
     "static/media/img52.jpeg": "/hope-team/static/media/img52.13c6d89cabb17f28ec23.jpeg",
-    "static/media/hope1.jpg": "/hope-team/static/media/hope1.959f59d179f02e8ad99b.jpg",
     "static/media/img24.jpg": "/hope-team/static/media/img24.937b8c44b5751336f8a3.jpg",
     "static/media/img7.jpeg": "/hope-team/static/media/img7.46cf90a6e6eddbe08b8b.jpeg",
     "static/media/c1.jpg": "/hope-team/static/media/c1.9168f8ef9176767c99b0.jpg",
@@ -34,6 +33,7 @@
     "static/media/img6.jpg": "/hope-team/static/media/img6.833b102beddb7d2db042.jpg",
     "static/media/img15.jpg": "/hope-team/static/media/img15.aba224470332f322df28.jpg",
     "static/media/img18.jpg": "/hope-team/static/media/img18.29a5ce1231cff8e5b72d.jpg",
+    "static/media/hope1.jpg": "/hope-team/static/media/hope1.3c32c46ed33c63210cce.jpg",
     "static/media/img12.jpg": "/hope-team/static/media/img12.078fe7cce5daaac6ec35.jpg",
     "static/media/img11.jpg": "/hope-team/static/media/img11.a0ed6d6adfb22315a84e.jpg",
     "static/media/img17.jpg": "/hope-team/static/media/img17.0ad581a86037178cc30b.jpg",
@@ -44,12 +44,12 @@
     "static/media/croppedLogo.svg": "/hope-team/static/media/croppedLogo.d566f77ece2dba7884b9.svg",
     "static/media/typoLogo.svg": "/hope-team/static/media/typoLogo.3242f18b649b3e475f1e63c16d58b59f.svg",
     "index.html": "/hope-team/index.html",
-    "main.2dff87ba.css.map": "/hope-team/static/css/main.2dff87ba.css.map",
-    "main.27883021.js.map": "/hope-team/static/js/main.27883021.js.map",
+    "main.cb353067.css.map": "/hope-team/static/css/main.cb353067.css.map",
+    "main.53b720c1.js.map": "/hope-team/static/js/main.53b720c1.js.map",
     "787.3fd99002.chunk.js.map": "/hope-team/static/js/787.3fd99002.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dff87ba.css",
-    "static/js/main.27883021.js"
+    "static/css/main.cb353067.css",
+    "static/js/main.53b720c1.js"
   ]
 }
