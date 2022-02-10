@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hope-team/static/css/main.68f125c5.css",
-    "main.js": "/hope-team/static/js/main.d5cc7074.js",
+    "main.css": "/hope-team/static/css/main.1773e248.css",
+    "main.js": "/hope-team/static/js/main.1b01be5c.js",
     "static/js/787.3fd99002.chunk.js": "/hope-team/static/js/787.3fd99002.chunk.js",
     "static/media/img8.jpg": "/hope-team/static/media/img8.c62bcf876d2966108cd1.jpg",
     "static/media/img19.jpg": "/hope-team/static/media/img19.b43ee5b98baf4895aa46.jpg",
@@ -44,12 +44,12 @@
     "static/media/croppedLogo.svg": "/hope-team/static/media/croppedLogo.d566f77ece2dba7884b9.svg",
     "static/media/typoLogo.svg": "/hope-team/static/media/typoLogo.3242f18b649b3e475f1e63c16d58b59f.svg",
     "index.html": "/hope-team/index.html",
-    "main.68f125c5.css.map": "/hope-team/static/css/main.68f125c5.css.map",
-    "main.d5cc7074.js.map": "/hope-team/static/js/main.d5cc7074.js.map",
+    "main.1773e248.css.map": "/hope-team/static/css/main.1773e248.css.map",
+    "main.1b01be5c.js.map": "/hope-team/static/js/main.1b01be5c.js.map",
     "787.3fd99002.chunk.js.map": "/hope-team/static/js/787.3fd99002.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68f125c5.css",
-    "static/js/main.d5cc7074.js"
+    "static/css/main.1773e248.css",
+    "static/js/main.1b01be5c.js"
   ]
 }
