@@ -1,5 +1,5 @@
 import React from 'react';
-import '../pages/Home.css';
+import './Home.css';
 import CarouselContainer from '../components/CarouselContainer';
 import Hero from '../components/Hero';
 import Cards from '../components/Cards';
