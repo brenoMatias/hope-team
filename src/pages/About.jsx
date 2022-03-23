@@ -33,21 +33,21 @@ function About() {
                     </p>
           
 
-                    {/* <div className='aboutp'>
+                    <div className='aboutp'>
                     <img
                     className="about-pic"
                     src={hope}
                     alt="First slide"
                      />
-                    </div> */}
+                    </div>
 
-                    {/* <div className='reach1'> 
+                    <div className='reach1'> 
                     <a  class='reach' href="/contato"
                    target='_blank' rel="noreferrer">
                     <i class="fas fa-location-arrow"></i>
                     <p>Como chegar</p>
                     </a>
-                </div> */}
+                </div>
                 
                 </div>               
                 </div>
