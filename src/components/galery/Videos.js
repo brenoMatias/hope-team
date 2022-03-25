@@ -3,10 +3,15 @@ import React, { useState } from "react";
 import JsonData from './videos-data.json';
 import ReactPaginate from "react-paginate";
 import { videoData } from './videos-data2';
+import ReactPlayer from 'react-player';
+import { videoData2 } from './localVideos';
+
 
 function Videos() {
   const [users] = useState(videoData.slice(0, 60));
   const [pageNumber, setPageNumber] = useState(0);
+  const [localVideos] = useState(videoData2.slice(0, 60))
+
 
   const usersPerPage = 10;
   const pagesVisited = pageNumber * usersPerPage;
@@ -15,10 +20,28 @@ function Videos() {
     .slice(pagesVisited, pagesVisited + usersPerPage)
     .map((video) => {
       return (
+
         <div className="user">
           <h3>{video.title}</h3>
           <iframe className='video-item' allowfullscreen="allowfullscreen" src={video.src} alt={video.title} title={video.title}></iframe>
         </div>
+      );   
+    });
+
+    const displayUsers2 = localVideos
+    .slice(pagesVisited, pagesVisited + usersPerPage)
+    .map((video) => {
+      return (
+
+      <div className="user">
+        <ReactPlayer
+        className='react-player'
+        url= {video.url}
+        width='100%'
+        height={video.height}
+        controls = {true}
+        />
+    </div>
       );
     });
 
@@ -32,6 +55,7 @@ function Videos() {
    <div className="cardsList"> 
     <div className="main">
       {displayUsers}
+      {displayUsers2}
       </div>
       <div>
 

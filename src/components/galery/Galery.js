@@ -31,12 +31,14 @@ export class Galery extends Component {
                 return null;
         }  
     }  
+    
     render() {  
         const { showHideComp1, showHideComp2 } = this.state;  
         return (  
 
             
             <div className="galeryBody"> 
+            
             <div className="galery text">
                 <h1 className='galery-h1'> Confira um pouco da nossa história!</h1>
              </div>
@@ -46,23 +48,28 @@ export class Galery extends Component {
                     <button className="btn btn-info" onClick={() => this.hideComponent("showHideComp1")}>  
                         Fotos 
               </button>  
-              <div className='gif'> 
-            <img className="gifphotos"src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0439.gif" border="0" alt="animated-arrow-image-0439" />
-            </div>
 
+              <div className='gif'> 
+              <button classname="but" onClick={() => this.hideComponent("showHideComp1")}>  
+   
+              <img className="gifphotos"src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0439.gif" border="0" alt="animated-arrow-image-0439" />              </button>  
+
+           
+            </div>
 
               {showHideComp1 && <Comp1 />} 
               </div> 
-
 
               <div className="showB">
                     <button className="btn btn-info" onClick={() => this.hideComponent("showHideComp2")}>  
                         Videos 
               </button>  
+
               <div className='gif'> 
-            <img className="gifphotos"src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0439.gif" border="0" alt="animated-arrow-image-0439" />
-            </div>
-              
+              <button classname="but" onClick={() => this.hideComponent("showHideComp1")}>  
+                  <img className="gifphotos"src="https://www.animatedimages.org/data/media/111/animated-arrow-image-0439.gif" border="0" alt="animated-arrow-image-0439" />            
+            </button>  
+            </div>      
               
                 {showHideComp2 && <Comp2 />}  
                 </div>

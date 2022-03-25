@@ -21,7 +21,7 @@ function App() {
     </Helmet>
     </div>
     <>
-    <BrowserRouter basename="hopeteam.com.br"> 
+    <BrowserRouter> 
         <NavBar />
           <Switch>
              <Route path="/" exact component={Home}/>
