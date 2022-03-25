@@ -88,6 +88,8 @@ justify-content: center;
     margin-right: 20px;
   }
 
+  
+
   .carousel {
     margin-top: 20px;
   }
@@ -375,4 +377,26 @@ justify-content: center;
   font-size: 0.5em;
   margin-top: -2.3em;
   margin-right: 4em;
+}
+
+@media only screen and (max-width:915px) {
+  .click {
+    color: aqua;
+    font-size: 0.5em;
+    margin-top: -2.3em;
+    margin-left:10em;
+    margin-top: -3em;
+  }
+  
+}
+
+@media only screen and (max-width:1000px) {
+  .click {
+    color: aqua;
+    font-size: 0.5em;
+    margin-top: -2.3em;
+    margin-left: 3em;
+    margin-top: -1.5em;
+  }
+  
 }

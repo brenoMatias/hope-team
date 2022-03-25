@@ -28,7 +28,7 @@ export default function teste() {
                     A partir de 2022 a Hope Team também passou a contar com uma unidade em Coronel Fabriciano! Para mais informações sobre aulas, contato e localização <a  class='reach' href="/contato"
                    target='_blank' rel="noreferrer">
 
-                    <p className='click'>click aqui.</p>
+                    <p className='click'>clique aqui.</p>
                     </a>
 
                      </p> 
