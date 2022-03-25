@@ -1,7 +1,7 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
-import nextevent from './../images/nextevent.jpg';
+import nextevent from './../images/rockin2.jpeg';
 import map1 from './../images/cities.png'
 
 function Cards() {
@@ -24,7 +24,6 @@ function Cards() {
               src={map1}
               text='Ipatinga e Coronel Fabriciano'
               label='Como Chegar'
-              path='/contato'
             />
           </ul>
 
