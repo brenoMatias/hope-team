@@ -37,7 +37,7 @@ function Videos() {
         <ReactPlayer
         className='react-player'
         url= {video.url}
-        width='100%'
+        width={video.width}
         height={video.height}
         controls = {true}
         />
