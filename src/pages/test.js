@@ -24,6 +24,16 @@ export default function teste() {
                     &nbsp;&nbsp;&nbsp;&nbsp;O boxe traz consigo diversos beníficios corporais e mentais. A Hope oferece aulas de boxe em turmas e personal trainer para homens e mulheres de todas as idades. Oferecemos aulas experimentais para aqueles que querem conhecer o treino. Venha mudar seu estilo de vida!
                     </p>
 
+                    <p className='pabout'>
+                    A partir de 2022 a Hope Team também passou a contar com uma unidade em Coronel Fabriciano! Para mais informações sobre aulas, contato e localização <a  class='reach' href="/contato"
+                   target='_blank' rel="noreferrer">
+
+                    <p className='click'>click aqui.</p>
+                    </a>
+
+                     </p> 
+
+
 
                     <h1 className='habout'>Projeto Social </h1>
 

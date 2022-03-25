@@ -100,6 +100,14 @@ justify-content: center;
 .map {
   margin-top:30px;
 
+
+}
+
+.myClassname {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
 }
 
 .map1 {
@@ -201,13 +209,21 @@ justify-content: center;
 
 .h1-c {
   font-size: 3em;
-  color: aliceblue;
+  color: rgba(243, 26, 26, 0.692);
+  box-shadow: 10px 1px rgb(47, 0, 255);
+  ;
 }
 
 .p1 {
   font-weight: bold;
   color: aliceblue;
   font-size: 2em;
+}
+
+.p2 {
+  font-weight: bold;
+  color: aliceblue;
+  font-size: 0.8em;
 }
 
 
@@ -327,4 +343,36 @@ justify-content: center;
 
 .p-box {
   margin-top: 2em;
+}
+
+.ipatinga {
+  color: #FFFFFF;
+  background: #912C22;
+  text-shadow: 0 0 10px #FFFFFF;
+  border-bottom-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  min-height: 5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;  
+}
+
+.ipa2 {
+  color: #FFFFFF;
+  text-shadow: 0 0 10px #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+
+.ipa21 {
+  color: black;
+}
+
+.click {
+  color: aqua;
+  font-size: 0.5em;
+  margin-top: -2.3em;
+  margin-right: 4em;
 }
