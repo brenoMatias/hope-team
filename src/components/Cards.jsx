@@ -1,8 +1,8 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
-import nextevent from './../images/nextevent.jpg';
-import map1 from './../images/map1.png'
+import nextevent from './../images/rockin2.jpeg';
+import map1 from './../images/cities.png'
 
 function Cards() {
   return (
@@ -22,9 +22,8 @@ function Cards() {
             />
             <CardItem className="card-item"  
               src={map1}
-              text='Rua Von Goethe, 348 - Cidade Nobre, Ipatinga'
+              text='Ipatinga e Coronel Fabriciano'
               label='Como Chegar'
-              path='/contato'
             />
           </ul>
 

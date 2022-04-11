@@ -13,6 +13,6 @@ export const videoData = [
         id:"3",
         title:"III HOPE TEAM FIGHT",
         src:"https://www.youtube.com/embed/nSvwJ2rBum8"
-    }
+    },
 
 ]

@@ -153,18 +153,26 @@
 /* https://stackoverflow.com/questions/37706383/go-to-a-specific-location-on-web-page-when-clicking-a-button */
 
 .gifphotos {
-  margin-left: auto;
-  margin-right: auto;
-  height: 55px;
-  font-size: 45px;
+  height: 6em;
+  font-size:2.5em;
   width: 30px;
   /* border: 1px solid black; */
   /* background-color: #191bb4; */
 }
 
+
+.gif{
+  background-color: rgb(243, 240, 240);
+  height: 10px;
+  border: 0 solid wheat;
+  background-color: #ec0410;
+  
+}
+
+
 .gif {
   display: flex;
-  margin-right: 200px;
+  /* margin-right: 200px; */
 
 }
 
@@ -178,4 +186,8 @@
 .video-item {
   width: 100%;
   height: 100%;
+}
+
+.btn {
+  background-color: aqua;
 }
