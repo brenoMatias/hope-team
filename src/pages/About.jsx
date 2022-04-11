@@ -3,6 +3,7 @@ import '../App.css';
 import Footer from '../components/Footer';
 import hope from '../images/hope.jpeg';
 import ReactPlayer from 'react-player'
+import about from '/home/brenomatias/hope-team-project/hope-team/src/components/galery/localVideos/about.mp4';
 
 
 
@@ -24,17 +25,18 @@ function About() {
                     <p className='p-about'>
                     O boxe trás consigo diversos beníficios corporais e mentais. A Hope oferece aulas de boxe em turmas e personal trainer para homens e mulheres de todas as idades. Oferecemos aulas experimentais para aqueles que querem conhecer o treino. Venha mudar seu estilo de vidadsadadaa!
                     </p>
+                    <p> Porraaaa</p>
                     <p className='p-about'>
-                    A partir de 2022 a Hope Team também passou a contar com uma unidade em Coronel Fabriciano! Para mais informações sobre aulas, contato e localização              <a  class='reach' href="/contato"
-                   target='_blank' rel="noreferrer">
-                    <p>Como chegar</p>
+                    A partir de 2022 a Hope Team também passou a contar com uma unidade em Coronel Fabriciano! Para mais informações sobre aulas, contato e localização  lalalaalalala     
+                    
+                    <a  class='reach' href="/contato" target='_blank' rel="noreferrer">
                     </a>
                      </p> 
                     
             <div className='player-wrapper'>
                     <ReactPlayer
                     className='react-player fixed-bottom'
-                    url= {}
+                    url= {about}
                     width='100%'
                     height='100%'
                     controls = {true}

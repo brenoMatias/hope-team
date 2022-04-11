@@ -1,7 +1,8 @@
 import React from 'react';
 import Footer from '../components/Footer';
 import hope from '../images/hope.jpeg';
-
+import ReactPlayer from 'react-player'
+import about from '/home/brenomatias/hope-team-project/hope-team/src/components/galery/localVideos/about.mp4';
 
 
 export default function teste() {
@@ -30,9 +31,16 @@ export default function teste() {
 
                     <p className='click'>clique aqui.</p>
                     </a>
-
                      </p> 
 
+                     <div className='player-wrapper2'>
+                    <ReactPlayer
+                    className='react-player2'
+                    url= {about}
+                    controls = {true}
+                     />
+                </div>
+             
 
 
                     <h1 className='habout'>Projeto Social </h1>
@@ -66,7 +74,7 @@ export default function teste() {
 
                 </div>
 
-                <div className='divfoot'> 
+                <div className='divfootA'> 
                 <Footer />
                 </div>
             </div>
