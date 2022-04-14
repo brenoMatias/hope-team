@@ -1,6 +1,5 @@
 import './Galery.css';
 import React, { useState } from "react";
-import JsonData from './videos-data.json';
 import ReactPaginate from "react-paginate";
 import { videoData } from './videos-data2';
 import ReactPlayer from 'react-player';
@@ -13,7 +12,7 @@ function Videos() {
   const [localVideos] = useState(videoData2.slice(0, 60))
 
 
-  const usersPerPage = 10;
+  const usersPerPage = 6;
   const pagesVisited = pageNumber * usersPerPage;
 
   const displayUsers = users

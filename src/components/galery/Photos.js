@@ -3,7 +3,6 @@ import React, { useState } from "react";
 // import JsonData from './photos-data';
 import ReactPaginate from "react-paginate";
 import {photosData} from '../../components/galery/photos-galery/photosData';
-import InnerImageZoom from 'react-inner-image-zoom';
 
 
 function Photos() {

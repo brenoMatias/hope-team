@@ -43,7 +43,6 @@ function Hero() {
                 <div>
                 <h1 class="venha melhor animate__animated animate__backInLeft">Venha para a melhor academia da região!</h1>
                 </div>
-
             </div>
         </div>
     )

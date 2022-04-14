@@ -23,6 +23,7 @@ import img22 from '../photos-galery/img22.jpg';
 import img23 from '../photos-galery/img23.JPG';
 import img24 from '../photos-galery/img24.jpg';
 import img25 from '../photos-galery/img51.jpeg'
+import popo from '../photos-galery/popo.jpeg';
 
 
 
@@ -35,7 +36,7 @@ export const photosData = [
     {
         id: "1",
         description: "lalala",
-        image: img2,
+        image: popo,
     },
     {
         id: "1",
