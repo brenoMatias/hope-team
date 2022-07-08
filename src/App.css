@@ -374,7 +374,6 @@ justify-content: center;
 .click {
   color: aqua;
   font-size: 0.5em;
-  margin-top: -2.3em;
   margin-right: 0em;
 }
 
@@ -384,11 +383,17 @@ justify-content: center;
     font-size: 0.5em;
     margin-top: -2.3em;
     margin-left:4em;
-    margin-top: -3em;
   }
-
-  
 }
+@media only screen and (max-width:900px) {
+  .click {
+    color: aqua;
+    font-size: 0.5em;
+    margin-left:4em;
+  }
+}
+
+
 
 @media only screen and (max-width:1000px) {
 
