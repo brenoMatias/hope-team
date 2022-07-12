@@ -75,21 +75,6 @@ function Contact() {
           </div>
         </div>
 
-        <div className='ipatinga'> 
-        <h1 className='ipa2'>CEL. FABRICIANO </h1>
-        <p className='ipa21'> Av. Acesita 30 - Centro</p>
-        </div>
-
-        <div className="map">
-          <div className="map1">
-            <Iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3760.435054118769!2d-42.63024568509192!3d-19.52292708683306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa55420eb2333d9%3A0xf08b1305789fdfff!2sAv.%20Acesita%2C%2030%20-%20Centro%2C%20Cel.%20Fabriciano%20-%20MG%2C%2035170-058!5e0!3m2!1sen!2sbr!4v1648247307607!5m2!1sen!2sbr"
-              id="myId"
-              width="1024" height="500"
-              className="myClassname"
-              display="initial"
-              position="relative" />
-          </div>
-        </div>
 
         
 

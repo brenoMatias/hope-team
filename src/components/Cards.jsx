@@ -2,7 +2,8 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 import nextevent from './../images/rockin2.jpeg';
-import map1 from './../images/cities.png'
+import map1 from './../images/map1.png';
+import horas from './../images/horas1.jpg';
 
 function Cards() {
   return (
@@ -12,17 +13,19 @@ function Cards() {
       </div>
        <div className='cards-container'>
         <div className='cards-wrapper'>
+
           <ul className='cards-items'>
             <CardItem className="card-item"
-              text=" Rock'n Figth - Garajão/Ipatinga  "
-              label='Último evento'
-              path='/services'
-              src={nextevent}
+              text=" Seg - Qua - Sex "
+              label='Aulas'
+              path='/contato'
+              src={horas}
               alt="lala"
             />
             <CardItem className="card-item"  
               src={map1}
-              text='Ipatinga e Coronel Fabriciano'
+              text='Ipatinga MG'
+              path='/contato'
               label='Como Chegar'
             />
           </ul>

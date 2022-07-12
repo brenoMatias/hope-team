@@ -24,10 +24,33 @@ import img23 from '../photos-galery/img23.JPG';
 import img24 from '../photos-galery/img24.jpg';
 import img25 from '../photos-galery/img51.jpeg'
 import popo from '../photos-galery/popo.jpeg';
-
+import seminario from '../photos-galery/seminario.jpeg';
+import lutacolo from '../photos-galery/lutacolo.jpeg';
+import kids from '../photos-galery/kids.jpeg';
+import never from '../photos-galery/never.jpeg';
 
 
 export const photosData = [
+    {
+        id: "1",
+        description: "lalala",
+        image: lutacolo,
+    },
+    {
+        id: "1",
+        description: "lalala",
+        image: seminario,
+    },
+    {
+        id: "1",
+        description: "lalala",
+        image: kids,
+    },
+    {
+        id: "1",
+        description: "lalala",
+        image: never,
+    },
     {
         id: "1",
         description: "lalala",
