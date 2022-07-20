@@ -1,6 +1,7 @@
 .home-container{
     max-height: 500px;
-    margin-top: -2px;
+    margin-top: 1em;
+    
 }
 
 
@@ -260,7 +261,7 @@
   .nx1 {
     width: 22.4em;
     height: 22em;
-    margin-left: 0;
+    margin-left: 1em;
   }
 
   .event1 {

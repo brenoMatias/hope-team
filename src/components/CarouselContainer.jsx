@@ -22,7 +22,7 @@ const CarouselContainer = () => {
         <Carousel.Caption >
           <div className='ccaption'> 
           <h3>Academia de Boxe</h3>
-          <p>Ipatinga - Coronel Fabriciano - MG</p>
+          <p>Ipatinga - MG</p>
           </div>
         </Carousel.Caption>
         </div>

@@ -9,7 +9,7 @@ import About from './pages/About';
 import { Helmet } from 'react-helmet';
 import teste from './pages/test';
 
-
+import NavbarTRY from './components/NavTry/navTRY';
 
 
 function App() {
@@ -22,7 +22,8 @@ function App() {
     </div>
     <>
     <BrowserRouter> 
-        <NavBar />
+    <NavbarTRY />
+
           <Switch>
              <Route path="/" exact component={Home}/>
              <Route path="/galeria" component={Galery}/>

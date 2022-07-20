@@ -13,7 +13,6 @@ export default function Home() {
             <div className="home-container"> 
             <div>
                          <CarouselContainer /> </div>
-   
             <Hero />
 
             < h1 className='h1e'> PRÓXIMOS EVENTOS</h1>
